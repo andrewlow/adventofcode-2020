@@ -7,11 +7,13 @@ I am not sharing the puzzle data, only the sample data for the puzzles.
 
 ## Notes
 
-Day 1: Great start, reading files, doing math. N cubed.
-Day 2: Basic string processing
-Day 3: Building the right in memory representation is key
-Day 4: Regex fun. Having the right debug statements helps a lot
-Day 5: Mapping results to internal bitmap
-Day 6: Python set functionality saves the day (overlap)
-Day 7: Parsing and recursion.
-Day 8: State machine.
+- Day 1: Great start, reading files, doing math. N cubed.
+- Day 2: Basic string processing
+- Day 3: Building the right in memory representation is key
+- Day 4: Regex fun. Having the right debug statements helps a lot
+- Day 5: Mapping results to internal bitmap
+- Day 6: Python set functionality saves the day (overlap)
+- Day 7: Parsing and recursion.
+- Day 8: State machine.
+
+
