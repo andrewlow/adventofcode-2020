@@ -15,5 +15,5 @@ I am not sharing the puzzle data, only the sample data for the puzzles.
 - Day 6: Python set functionality saves the day (overlap)
 - Day 7: Parsing and recursion.
 - Day 8: State machine.
-
+- Day 9: Not really crypto.
 
