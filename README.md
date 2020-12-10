@@ -16,4 +16,5 @@ I am not sharing the puzzle data, only the sample data for the puzzles.
 - Day 7: Parsing and recursion.
 - Day 8: State machine.
 - Day 9: Not really crypto.
+- Day 10: Brute force won't work, need to use combinatorics
 
