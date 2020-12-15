@@ -19,4 +19,6 @@ I am not sharing the puzzle data, only the sample data for the puzzles.
 - Day 10: Brute force won't work, need to use combinatorics
 - Day 11: Game of life
 - Day 12: Got stuck on part 2, needed to reference another solution
-
+- Day 13
+- Day 14
+- Day 15: Intresting performance trade off of data structure used
