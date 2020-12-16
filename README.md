@@ -22,3 +22,4 @@ I am not sharing the puzzle data, only the sample data for the puzzles.
 - Day 13
 - Day 14
 - Day 15: Intresting performance trade off of data structure used
+- Day 16: Dictionary abuse.
