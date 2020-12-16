@@ -20,6 +20,6 @@ I am not sharing the puzzle data, only the sample data for the puzzles.
 - Day 11: Game of life
 - Day 12: Got stuck on part 2, needed to reference another solution
 - Day 13
-- Day 14
+- Day 14: Bit masking fun.
 - Day 15: Intresting performance trade off of data structure used
 - Day 16: Dictionary abuse.
