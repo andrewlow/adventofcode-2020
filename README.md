@@ -23,3 +23,5 @@ I am not sharing the puzzle data, only the sample data for the puzzles.
 - Day 14: Bit masking fun.
 - Day 15: Intresting performance trade off of data structure used
 - Day 16: Dictionary abuse.
+- Day 17:
+- Day 18: Calculator. Easy if you pick the right bracket parsing approach
