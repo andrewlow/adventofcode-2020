@@ -25,3 +25,7 @@ I am not sharing the puzzle data, only the sample data for the puzzles.
 - Day 16: Dictionary abuse.
 - Day 17:
 - Day 18: Calculator. Easy if you pick the right bracket parsing approach
+- Day 19
+- Day 20
+- Day 21: Fun with sets. Also, super messy code. Oh well.
+
